@@ -1,1 +1,1 @@
-# PepperGame
+# Pepper
